@@ -7,7 +7,7 @@ Demo app run offline using ionic with pwa
 
 Make sure install nodejs and npm first.
 
-Install ionic-cli
+- Install ionic-cli
 
 ```shell
     npm install -g ionic
