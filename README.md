@@ -44,16 +44,16 @@ Or
 
 ### save cache in your app
 
-go to this app by go to this link [http://localhost:8100](http://localhost:8100/). The cache automatic save when you open this app
+- go to this app by go to this link [http://localhost:8100](http://localhost:8100/). The cache automatic save when you open this app
 
 ### Go offline
 
-Turn off wifi, 3G, 4G ... every internet connection to off.
+- Turn off wifi, 3G, 4G ... every internet connection to off.
 
-go to the anothor link, link [google](https://google.com)
+- go to the another link, like [google](https://google.com)
 
 ### Run app in offline
 
-go back my app by click [http://localhost:8100](http://localhost:8100/). The web app run in offline mode.
+- go back my app by click [http://localhost:8100](http://localhost:8100/). The web app run in offline mode.
 
 GREATE!!! 
