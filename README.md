@@ -56,4 +56,4 @@ Or
 
 - go back my app by click [http://localhost:8100](http://localhost:8100/). The web app run in offline mode.
 
-GREATE!!! 
+GREATE!!! :eggplant: :tomato: :corn:
